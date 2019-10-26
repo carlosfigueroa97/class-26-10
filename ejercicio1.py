@@ -4,7 +4,6 @@ Objetivo: Resolver ejercicio 1
 Autor: Carlos Alejandro Figueroa Bazán
 Fecha: 26 de Octubre de 2019
 """
-
 def main():
     sueldo = int(input('Ingrese el sueldo de un trabajador: '))
     if(sueldo < 1000):
